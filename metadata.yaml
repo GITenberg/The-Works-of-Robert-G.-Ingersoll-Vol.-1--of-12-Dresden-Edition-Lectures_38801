@@ -1,0 +1,37 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-1--of-12-Dresden-Edition-Lectures_38801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: 'The gods -- Humboldt -- Thomas Paine -- Individuality -- Heretics
+  and heresies -- The ghosts -- The libery of man, woman, and child -- Liberty of
+  woman -- The liberty of children -- Conclusion -- About farming in Illinois -- What
+  must we do to be saved?: What we must do to be saved. The Gospel of Matthew. The
+  Gospel of Mark. The Gospel of Luke. The Gospel of John. The Catholics. The Episcopalians.
+  The Methodists. The Presbyterians. The Evangelical Alliance. What do you propose?'
+title: "The Works of Robert G. Ingersoll, Vol. 01 (of 12)\r\nDresden Edition—Lectures"
+url: http://www.gutenberg.org/ebooks/38801
